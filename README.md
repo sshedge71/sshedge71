@@ -1,16 +1,18 @@
-## Hi there 👋
+<h2 align="center">👨‍💻 Suraj Shedge | Senior Backend Engineer 🚀</h2>
+---
 
-<!--
-**sshedge71/sshedge71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Tech Overview
 
-Here are some ideas to get you started:
+💻 **Stack:** Python, Django, DRF, FastAPI, PostgreSQL  
+⚙️ **Distributed Systems:** Celery, RabbitMQ  
+☸️ **DevOps & Cloud-Native:** Docker, Kubernetes, GitHub Actions  
+🛠 **Developer Tools:** Git, GitHub, Jira, VS Code    
+🔍 **Observability:** Sentry, Splunk  
+🤖 **Focus Areas:** Scalable Systems, AI & Automation   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 What I'm exploring now
+- ⚙️ System Design for large-scale distributed systems  
+- 🤖 AI-powered backend applications
+---
