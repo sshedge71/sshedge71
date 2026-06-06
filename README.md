@@ -51,7 +51,7 @@
 
 ---
 
-### 💡 What I'm Exploring Now
+### 💡 What I'm Exploring Lately
 
 | Area | Focus |
 |------|-------|
