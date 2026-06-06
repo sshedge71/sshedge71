@@ -1,5 +1,4 @@
 <h2 align="center">👨‍💻 Suraj Shedge | Senior Backend Engineer 🚀</h2>
----
 
 ### 🚀 Tech Overview
 
