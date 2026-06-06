@@ -1,6 +1,8 @@
 <h2 align="center">👨‍💻 Suraj Shedge | Senior Backend Engineer 🚀</h2>
 
-### 💻 Tech Stack
+<h3 align="center">⚡⚡ Tech Stack ⚡⚡</h3>
+
+---
 
 ## 🖥️ Backend
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
@@ -22,6 +24,17 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-7B42BC?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2EA44F?style=for-the-badge&logo=github-actions&logoColor=white)
 
+## 🔍 Observability
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-FFB800?style=for-the-badge&logo=splunk&logoColor=black)
+
+## 🧪 Testing & Code Quality
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![coverage](https://img.shields.io/badge/coverage-FF4040?style=for-the-badge&logo=codecov&logoColor=white)
+![black](https://img.shields.io/badge/black-000000?style=for-the-badge&logo=python&logoColor=white)
+![flake8](https://img.shields.io/badge/flake8-F7C948?style=for-the-badge&logo=python&logoColor=black)
+![mypy](https://img.shields.io/badge/mypy-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
+
 ## 🛠️ Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
@@ -29,10 +42,6 @@
 ![VS Code](https://img.shields.io/badge/VSCode-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-## 🔍 Observability
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-FFB800?style=for-the-badge&logo=splunk&logoColor=black)
 
 ## 🧠 Expertise
 ![Scalable Systems](https://img.shields.io/badge/Scalable%20Systems-FF4F8B?style=for-the-badge&logo=apachekafka&logoColor=white)
