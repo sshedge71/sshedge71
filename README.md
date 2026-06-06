@@ -1,15 +1,15 @@
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,django,fastapi,postgres,mongodb" />
-    <img src="https://skillicons.dev/icons?i=redis,rabbitmq,docker,kubernetes,githubactions,sentry,git,github,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,django,fastapi,postgres,mongodb,redis,rabbitmq,docker,kubernetes,githubactions,sentry,git,github,vscode,postman&perline=10" />
 </div>
 
+---
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=0969DA&lines=👋Suraj+Shedge+|+Full+Stack+Engineer+🚀" />
 </h1>
 
+---
 <h3 align="center">⚡⚡ Tech Stack ⚡⚡</h3>
 
----
 ## 🎨 FrontEnd
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
