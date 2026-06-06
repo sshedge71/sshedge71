@@ -1,8 +1,14 @@
-<h2 align="center">👨‍💻 Suraj Shedge | Full Stack Engineer 🚀</h2>
+<div align="center">
+    <img width="100%" src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,django,fastapi,postgres,mongodb,redis,rabbitmq,docker,kubernetes,githubactions,sentry,git,github,vscode,postman&perline=20" />
+</div>
+
+<hr>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=0969DA&lines=👋Suraj+Shedge+|+Full+Stack+Engineer+🚀" />
+</h1>
 
 <h3 align="center">⚡⚡ Tech Stack ⚡⚡</h3>
 
----
 ## 🎨 FrontEnd
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -63,4 +69,5 @@
 |------|-------|
 | 🏗️ **System Design** | Designing fault-tolerant, high-throughput distributed systems at scale |
 | 🤖 **AI-Powered Backends** | Building LLM-integrated APIs, RAG pipelines & intelligent automation |
+
 ---
