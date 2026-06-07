@@ -4,7 +4,7 @@
 
 <hr>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=0969DA&lines=👋Suraj+Shedge+|+Full+Stack+Engineer+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&pause=1200&color=0969DA&lines=🟧+Suraj+Shedge+🟧+Full+Stack+Engineer+🟧" />
 </h1>
 
 <h3 align="center">⚡⚡ Tech Stack ⚡⚡</h3>
