@@ -71,3 +71,15 @@
 | 🤖 **AI-Powered Backends** | Building LLM-integrated APIs, RAG pipelines & intelligent automation |
 
 ---
+
+### 📊 GitHub Insights
+
+<div align="center">
+<picture>
+  <source media="(prefers-color.com/sshedge71/sshedge71/output/github-contribution-grid-snake-dark.svg
+  https://raw.githubusercontent.com/sshedge71/sshedge71/output/github-contribution-grid-snake.svg
+  https://raw.githubusercontent.com/sshedge71/sshedge71/output/github-contribution-grid-snake.svg
+</picture>
+</div>
+
+---
